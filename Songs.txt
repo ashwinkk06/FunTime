@@ -3,3 +3,6 @@ Song 2
 Song 3
 Song 4
 Song 5
+Adding Music to new branch
+Music 1
+Music 2
